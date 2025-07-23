@@ -4,15 +4,11 @@
 
 `beamIRL` is the all-in-one IRL livestreaming platform for creators who want total control — without needing a laptop or complicated gear.
 
----
-
 ## ✨ What is beamIRL?
 
 beamIRL is a platform that lets streamers **go live from their mobile phone** to **multiple platforms at once** — like Twitch, YouTube, and Kick — with **chat overlays**, **custom graphics**, and more.
 
 Everything is handled from the app — no extra software, no cables, no hassle.
-
----
 
 ## 📱 What Can You Do with beamIRL?
 
@@ -40,21 +36,9 @@ Control your stream, see chat, switch cameras — all from the app. No need for 
 
 If your stream disconnects, beamIRL can automatically show a custom image for up to 5 minutes before ending the stream.
 
----
-
 ## 💡 Who Is This For?
 
 * IRL streamers on the go
 * Mobile-first creators
 * Anyone who wants to stream from anywhere — and look professional doing it.
-
----
-
-## 🛠️ Want to Help Build beamIRL?
-
-We’re building the future of mobile-first livestreaming, and it's open to the community.
-
-Whether you're a dev, designer, or creator — jump in!
-
----
 
